@@ -1,1 +1,4 @@
 “Hello world!” - said everyone, always
+hi and say hello
+for(var i = 0;i < 3; i++){
+}
