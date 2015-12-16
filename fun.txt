@@ -2,3 +2,4 @@
 hi and say hello
 for(var i = 0;i < 3; i++){
 }
+we are awesome
